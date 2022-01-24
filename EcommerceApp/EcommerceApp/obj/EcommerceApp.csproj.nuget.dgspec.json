@@ -1,31 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "F:\\LLD\\EcommerceApp\\EcommerceApp\\EcommerceApp.csproj": {}
+    "/Users/ankitsingh/Documents/GitHub/LLD/EcommerceApp/EcommerceApp/EcommerceApp.csproj": {}
   },
   "projects": {
-    "F:\\LLD\\EcommerceApp\\EcommerceApp\\EcommerceApp.csproj": {
+    "/Users/ankitsingh/Documents/GitHub/LLD/EcommerceApp/EcommerceApp/EcommerceApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\LLD\\EcommerceApp\\EcommerceApp\\EcommerceApp.csproj",
+        "projectUniqueName": "/Users/ankitsingh/Documents/GitHub/LLD/EcommerceApp/EcommerceApp/EcommerceApp.csproj",
         "projectName": "EcommerceApp",
-        "projectPath": "F:\\LLD\\EcommerceApp\\EcommerceApp\\EcommerceApp.csproj",
-        "packagesPath": "C:\\Users\\kislo\\.nuget\\packages\\",
-        "outputPath": "F:\\LLD\\EcommerceApp\\EcommerceApp\\obj\\",
+        "projectPath": "/Users/ankitsingh/Documents/GitHub/LLD/EcommerceApp/EcommerceApp/EcommerceApp.csproj",
+        "packagesPath": "/Users/ankitsingh/.nuget/packages/",
+        "outputPath": "/Users/ankitsingh/Documents/GitHub/LLD/EcommerceApp/EcommerceApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kislo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ankitsingh/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +36,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }

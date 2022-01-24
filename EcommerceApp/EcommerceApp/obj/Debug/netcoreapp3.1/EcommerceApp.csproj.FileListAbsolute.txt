@@ -1,0 +1,5 @@
+/Users/ankitsingh/Documents/GitHub/LLD/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.csproj.AssemblyReference.cache
+/Users/ankitsingh/Documents/GitHub/LLD/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ankitsingh/Documents/GitHub/LLD/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.AssemblyInfoInputs.cache
+/Users/ankitsingh/Documents/GitHub/LLD/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.AssemblyInfo.cs
+/Users/ankitsingh/Documents/GitHub/LLD/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.csproj.CoreCompileInputs.cache

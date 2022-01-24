@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{65357E41-6E73-49EF-A568-0B30824791B7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EcommerceApp/ProductCatalogue.cs">
+    <Files>
+      <File FileName="EcommerceApp/Order.cs" Line="35" Column="10" />
+      <File FileName="EcommerceApp/OrderLog.cs" Line="14" Column="10" />
+      <File FileName="EcommerceApp/Shipment.cs" Line="22" Column="62" />
+      <File FileName="EcommerceApp/ISearchable.cs" Line="10" Column="64" />
+      <File FileName="EcommerceApp/ProductCatalogue.cs" Line="30" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EcommerceApp" expanded="True">
+            <Node name="EcommerceApp" expanded="True">
+              <Node name="ProductCatalogue.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EcommerceApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
