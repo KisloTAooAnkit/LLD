@@ -1,18 +1,27 @@
 ﻿<Properties StartupConfiguration="{65357E41-6E73-49EF-A568-0B30824791B7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="EcommerceApp/ProductCatalogue.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EcommerceApp/Cart.cs">
     <Files>
       <File FileName="EcommerceApp/Order.cs" Line="35" Column="10" />
-      <File FileName="EcommerceApp/OrderLog.cs" Line="14" Column="10" />
-      <File FileName="EcommerceApp/Shipment.cs" Line="22" Column="62" />
-      <File FileName="EcommerceApp/ISearchable.cs" Line="10" Column="64" />
-      <File FileName="EcommerceApp/ProductCatalogue.cs" Line="30" Column="17" />
+      <File FileName="EcommerceApp/OrderLog.cs" />
+      <File FileName="EcommerceApp/Shipment.cs" />
+      <File FileName="EcommerceApp/ISearchable.cs" />
+      <File FileName="EcommerceApp/ProductCatalogue.cs" />
+      <File FileName="EcommerceApp/Product.cs" />
+      <File FileName="EcommerceApp/MyFlipKart.cs" />
+      <File FileName="EcommerceApp/Cart.cs" Line="7" Column="15" />
+      <File FileName="EcommerceApp/Category.cs" />
+      <File FileName="EcommerceApp/Customer.cs" />
+      <File FileName="EcommerceApp/Item.cs" />
+      <File FileName="EcommerceApp/OrderStatus.cs" />
+      <File FileName="EcommerceApp/Program.cs" />
+      <File FileName="EcommerceApp/Seller.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EcommerceApp" expanded="True">
             <Node name="EcommerceApp" expanded="True">
-              <Node name="ProductCatalogue.cs" selected="True" />
+              <Node name="Cart.cs" selected="True" />
             </Node>
           </Node>
         </State>

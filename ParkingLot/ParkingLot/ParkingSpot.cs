@@ -4,17 +4,35 @@ using System.Text;
 
 namespace ParkingLot
 {
-    class ParkingSpot
+    public class ParkingSpot
     {
-        private string number;
-        private bool free;
+        private int number;
+        private bool free = true;
         private Vehicle vehicle;
         private ParkingSpotType type;
 
-        public bool isFree()
+        public ParkingSpot(int number,ParkingSpotType type)
         {
-            return free;
+            this.number = number;
+            this.type = type;
         }
 
+        public ParkingSpotType Type { get => type; }
+        public Vehicle Vehicle { get => vehicle;}
+        public bool Free { get => free;  }
+        public int Number { get => number; }
+
+
+        public void assignVehicle(Vehicle vehicle)
+        {
+            this.vehicle = vehicle;
+            this.free = false;
+        }
+
+        public void removeVehicle()
+        {
+            this.vehicle = null;
+            free = true;
+        }
     }
 }

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{DB04C563-AC22-4787-AE11-3392341E8CA1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParkingLot/ParkingFloor.cs">
+    <Files>
+      <File FileName="ParkingLot/Address.cs" Line="9" Column="1" />
+      <File FileName="ParkingLot/Enums.cs" Line="10" Column="41" />
+      <File FileName="ParkingLot/Person.cs" Line="9" Column="1" />
+      <File FileName="ParkingLot/Vehicle.cs" Line="7" Column="33" />
+      <File FileName="ParkingLot/ParkingLot.cs" Line="47" Column="53" />
+      <File FileName="ParkingLot/ParkingFloor.cs" Line="54" Column="7" />
+      <File FileName="ParkingLot/ParkingSpot.cs" Line="14" Column="31" />
+      <File FileName="ParkingLot/DisplayBoard.cs" Line="24" Column="20" />
+      <File FileName="ParkingLot/Ticket.cs" Line="20" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ParkingLot" expanded="True">
+            <Node name="ParkingLot" expanded="True">
+              <Node name="LargeParkingSpot.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ParkingLot PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

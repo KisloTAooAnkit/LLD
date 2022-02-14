@@ -7,6 +7,11 @@ namespace EcommerceApp
     class MyFlipKart
     {
         List<User> users;
-        ProductCatalogue productCatalogue;
+        public ProductCatalogue productsCatalog;
+
+        public MyFlipKart()
+        {
+            productsCatalog = new ProductCatalogue();
+        }
     }
 }
